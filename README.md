@@ -1,2 +1,1 @@
-"# miniature-octo-umbrella" 
-yes
+This is my first repo
